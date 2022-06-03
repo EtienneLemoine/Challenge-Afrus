@@ -1,0 +1,11 @@
+Colocar un campo que reciba un número, luego dado ese número mostrarás esa cantidad
+en imágenes debajo del campo organizadas de forma acorde al tamaño de la pantalla. 
+
+-----------------------------------------------------------------------------------
+
+En esta actividad:
+
+-Se realizo mediante React para el desarrollo.
+-Se creo un input, en el cual podremos colocar la cantidad de imagenes que deseemos mostrar.
+-Se eligio un tipo de imagen, traida de google.
+-Por ultimo, se realizo un clico for para determinar cuantas imagenes se renderizan.

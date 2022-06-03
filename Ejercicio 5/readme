@@ -1,0 +1,14 @@
+Realice una página en donde se ingrese un password con las condiciones del ejercicio número 3,
+en donde se muestren cada una de las condiciones del password y a medida que se vaya introduciendo 
+el password se irán mostrando de color rojo los que no son válidos y en color verde los que sean válidos. 
+
+---------------------------------------------------------------------------------------------------------
+
+En este ejercici:
+
+-Se realizo mediante React.
+-La validacion de la contraseña esta basada en el ejercicio nº 3 y por un sistema de errores.
+-No se usaron expresiones regulares.
+-Mientras el usuario colocaba la contraseña, se iba actualizando el estado de la validacion,
+para colocar en verde si se cumplian los requisitos o en rojo si no se cumplen.
+-Al colocar la contraseña con todos los requisitos, se nos colocara en verde "La contraseña es valida".

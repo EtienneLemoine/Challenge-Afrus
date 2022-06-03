@@ -1,0 +1,15 @@
+Se desea crear un validador para la contraseña de un sitio web, pero esta debe ser muy segura, para ello el cliente solicita los siguientes requerimientos para el password:
+
+-Debe tener al menos 16 caracteres.
+-Debe tener letras minúsculas y mayúsculas.
+-No puede tener 2 letras iguales consecutivas.
+-Debe contener al menos 4 números.
+-No puede tener 2 números iguales consecutivos. 
+-Debe tener al menos 2 caracteres especiales (!@#$%ˆ&*-_+=?) pero ninguno de ellos puede -repetirse en ninguna posición y además los caracteres no pueden estar juntos.
+
+---------------------------------------------------------------------------------------------
+
+Para este ejercicio:
+
+-Se realizo la validacion de todos los parametros mencionados en la consigna mediante a JavaScript puro, sin uso de expresiones regulares.
+-Para los caracteres especiales, se definieron en una variable para luego comparar mediante un ciclo for.
