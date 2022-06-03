@@ -5,7 +5,7 @@ la información se debe visualizar en una tabla que debe ubicarse debajo del for
 ------------------------------------------------------------------------------------------
 
 En este ejercicio:
--Se utilizo React para el desarrollo.
+-Se utilizo React para el desarrollo en la pagina CodeSandbox.
 -Se crearon varios input y submit, que permiten crear la actividad, realizar un "clear" en los inputs,
 borrar todas actividades.
 -En cada actividad se crearon diversos botones que permiten modificar cada informacion o borrar la actividad.

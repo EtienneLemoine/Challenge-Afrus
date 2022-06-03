@@ -6,7 +6,7 @@ el password se irán mostrando de color rojo los que no son válidos y en color 
 
 En este ejercici:
 
--Se realizo mediante React.
+-Se realizo mediante React en la pagina CodeSandbox.
 -La validacion de la contraseña esta basada en el ejercicio nº 3 y por un sistema de errores.
 -No se usaron expresiones regulares.
 -Mientras el usuario colocaba la contraseña, se iba actualizando el estado de la validacion,

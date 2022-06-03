@@ -4,6 +4,6 @@ https://pokeapi.co/, por el número o nombre del pokémon y muestre en pantalla 
 -------------------------------------------------------------------------------------------
 
 Para este ejercicio:
--Se utilizo React-Redux, creando actions y reducers.
+-Se utilizo React-Redux, creando actions y reducers en la pagina CodeSandbox.
 -Se creo un input y un submit, donde este manda al actions el nombre del pokemon a buscar.
 -Se trae la informacion del reducer mediante a un useSelector y se mapea mediante labels.

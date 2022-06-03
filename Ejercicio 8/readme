@@ -5,7 +5,7 @@ en imágenes debajo del campo organizadas de forma acorde al tamaño de la panta
 
 En esta actividad:
 
--Se realizo mediante React para el desarrollo.
+-Se realizo mediante React para el desarrollo en la pagina CodeSandbox.
 -Se creo un input, en el cual podremos colocar la cantidad de imagenes que deseemos mostrar.
 -Se eligio un tipo de imagen, traida de google.
 -Por ultimo, se realizo un clico for para determinar cuantas imagenes se renderizan.
